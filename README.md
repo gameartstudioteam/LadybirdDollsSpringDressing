@@ -4,8 +4,9 @@ Public privacy policy for the Android game by GameArtForKids.
 
 - Android package: `com.GameArtForKids.LadybirdDollsSpringDressing`
 - Privacy and support contact: [gameartstudioteam@gmail.com](mailto:gameartstudioteam@gmail.com)
-- Policy document: [index.html](index.html)
+- Published policy: [GitHub Pages](https://gameartstudioteam.github.io/LadybirdDollsSpringDressing/)
+- Policy source: [index.html](index.html)
 
-The HTML policy describes local game saves, Google AdMob advertising, the release configuration's disabled game analytics, and retention and deletion practices. It is the maintained policy document for this game.
+The policy describes local game saves, Google Analytics for Firebase in versions with analytics enabled, child-directed Google AdMob advertising, technical identifiers, privacy requests, and retention and deletion practices. It distinguishes advertising availability from consent to analytics and does not claim that clearing local data deletes Google's records.
 
-Last updated: October 3, 2026.
+Last updated: October 4, 2026.
